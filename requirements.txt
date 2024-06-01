@@ -1,0 +1,5 @@
+pandas
+neuralprophet
+matplotlib
+Flask
+pickle5
